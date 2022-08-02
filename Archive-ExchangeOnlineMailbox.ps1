@@ -3,8 +3,8 @@
 .AUTHOR Oliver Keefe
 .DESCRIPTION A simple script that allows Windows SysAdmins to manage exchange online mailbox archives en masse.
 .TAGS Exchange Online Archive
-.LICENSEURI https://github.com/OliverKeefe/Archive-ExchangeOnlineMailbox/LICENSE.md
-.PROJECTURI https://github.com/ShellGibson/exo-mailbox-archiver/edit/main/EXOMailboxArchiver.ps1
+.LICENSEURI https://github.com/OliverKeefe/archive-exchange-online-mailbox/LICENSE.md
+.PROJECTURI https://github.com/OliverKeefe/archive-exchange-online-mailbox
 #>
 # Requires -Module ExchangeOnlineManagement 
 
